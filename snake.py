@@ -5,7 +5,7 @@ import time
 pygame.init()
 
 
-########### ZMIENNE ###################
+########### ZMIENNE ####################
 grid_size = 50
 screen_size = (grid_size*15,grid_size*15)
 screen = pygame.display.set_mode(screen_size)
